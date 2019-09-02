@@ -1,0 +1,35 @@
+.container {
+  padding: 170px !important;
+  padding-top: 100px !important;
+  padding-bottom: 50px !important;
+}
+.container > div {
+  padding: 10px;
+}
+
+.flex1 {
+  flex: 1;
+}
+.card {
+  border-radius: 0px !important;
+  background-color: rgba(0, 0, 0, 0.7) !important ;
+}
+.card-body {
+  color: white;
+}
+
+.MuiSvgIcon-root {
+  color: white;
+}
+.vh-25 {
+  height: 25vh;
+}
+.textInput {
+  margin-bottom: 5px;
+  background-color: transparent !important;
+  color: white !important;
+  width: 98% !important;
+  border: 0px !important;
+  border-bottom: 1px solid #ced4da !important;
+  border-radius: 0px !important;
+}

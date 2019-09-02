@@ -1,0 +1,9 @@
+.flex1 {
+  flex: 1;
+}
+.btn-outline-warning {
+  border-color: transparent !important;
+}
+label {
+  color: white !important;
+}
